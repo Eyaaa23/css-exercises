@@ -1,0 +1,19 @@
+.same_a {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #f7a6cd;
+}
+
+.same_a.b, #unique2 {
+    font-size: 24px;
+}
+
+#unique1 {
+    font-size: 36px;
+    color: #181496;
+}
+
+#unique2 {
+    background-color: #b3a6f7;
+    font-weight: bold;
+}
+
